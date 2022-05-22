@@ -17,12 +17,12 @@ A machine learning model that learns about the cost vs attributes of Cabs featur
 - Competition margin
 <h2> Few Comparision charts from the model: </h2>
   <h3> Popularity of Cab drivers:</h3>
-  ![Alt Image text](/1.jpg?raw=true "Optional Title")
+  <img src="/1.jpg" alt="Popularity of Cab drivers">
   <h3> Popular uber types:</h3>
-  ![Alt Image text](/2.jpg?raw=true "Optional Title")
+  <img src="/2.jpg" alt="Popular uber types">
   <h3> Top 10 Popular routes by UBER:</h3>
-  ![Alt Image text](/3.jpg?raw=true "Optional Title")
+  <img src="/3.jpg" alt="routes by UBER">
   <h3> Popular LYFT types:</h3>
-  ![Alt Image text](/4.jpg?raw=true "Optional Title")
+  <img src="/4.jpg" alt="Popular LYFT types">
   <h3> Top 10 popular routes by LYFT:</h3>
-  ![Alt Image text](/5.jpg?raw=true "Optional Title")
+  <img src="/5.jpg" alt="routes by LYFT">
